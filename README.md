@@ -1,5 +1,5 @@
 # NASANeoWs
-Kotlin Mix Liberty
+This project has been created with open [NASA api](https://api.nasa.gov/) for test purposes
 
 ## Built With
 [RxJava2, RxAndroid2](https://github.com/ReactiveX/RxJava),
