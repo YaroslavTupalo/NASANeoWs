@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NASA-NeoWs</string>
+
+    <string name="name">Name</string>
+    <string name="close_approach_date">Close Approach Date - </string>
+    <string name="orbiting_body">Orbiting Body - </string>
+    <string name="speed">Speed - </string>
+    <string name="distance">Distance - </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
